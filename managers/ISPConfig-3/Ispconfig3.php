@@ -383,7 +383,7 @@ class Server_Manager_Ispconfig3 extends Server_Manager
         $zoneId = $zone['response']; // Grab the zone ID to add the other records
 
         //Adding the DNS record A
-        $testing = $this->request('dns_a_add', [
+        $this->request('dns_a_add', [
             'client_id' => $client->getid(),
             'params' => [
                 'server_id' => 1,
