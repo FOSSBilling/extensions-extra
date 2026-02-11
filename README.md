@@ -6,20 +6,23 @@ This repository contains extra extensions for [FOSSBilling](https://github.com/F
 
 ### Payment Gateways
 
-| Gateway | Status |
-|---------|--------|
-| [AliPay](gateways/AliPay) | Untested |
-| [Interkassa](gateways/Interkassa) | May not work |
-| [Onebip](gateways/Onebip) | Untested |
-| [Mollie](gateways/Mollie) | Functional |
-| [TwoCheckout](gateways/TwoCheckout) | Reportedly functional |
-| [WebMoney](gateways/WebMoney) | Untested |
+| Gateway | Status | Removal Date |
+| ------- | ------ | ------------ |
+| [AliPay](gateways/AliPay) | Untested | 31-Aug-2026 |
+| [Interkassa](gateways/Interkassa) | May not work | 31-Aug-2026 |
+| [Onebip](gateways/Onebip) | Untested | 31-Aug-2026 |
+| [Mollie](gateways/Mollie) | Functional | N/A |
+| [TwoCheckout](gateways/TwoCheckout) | Reportedly functional | 31-Aug-2026 |
+| [WebMoney](gateways/WebMoney) | Untested | 31-Aug-2026 |
 
 ### Server Managers
 
-| Gateway | Status |
-|---------|--------|
-| [CentovaCast](managers/CentovaCast) | Untested |
-| [ISPConfig-3](managers/ISPConfig-3) | Untested |
-| [SolusVM](managers/SolusVM) | Untested |
-| [Virtualmin](managers/Virtualmin) | Untested |
+| Gateway | Status | Removal Date |
+| ------- | ------ | ------------ |
+| [CentovaCast](managers/CentovaCast) | Untested | 31-Aug-2026 |
+| [ISPConfig-3](managers/ISPConfig-3) | Untested | 31-Aug-2026 |
+| [SolusVM](managers/SolusVM) | Untested | 31-Aug-2026 |
+| [Virtualmin](managers/Virtualmin) | Untested | 31-Aug-2026 |
+
+Extension removal dates are dependent upon activity; they may be extended/removed, if appropriate.
+
