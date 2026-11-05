@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/35808275/236844335-8085c37f-ea5f-4e6a-9712-8c5bea7ebcaf.png" alt="Mollie for FOSSBilling">
   <h1>Mollie for FOSSBilling</h1>
-  <img src="https://api.fossbilling.net/v2/extensions/mollie/badges/version" alt="Extension version">
-  <img src="https://api.fossbilling.net/v2/extensions/mollie/badges/fossbilling" alt="FOSSBilling version requirement">
+  <img src="https://api.fossbilling.net/extensions/v2/extensions/mollie/badges/version" alt="Extension version">
+  <img src="https://api.fossbilling.net/extensions/v2/extensions/mollie/badges/fossbilling" alt="FOSSBilling version requirement">
 </div>
 
 Quickly and easily integrate [Mollie](https://mollie.com) into your [FOSSBilling](https://fossbilling.org) instance using this extension.
