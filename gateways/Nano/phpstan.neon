@@ -1,0 +1,10 @@
+parameters:
+	level: 1
+	paths:
+		- src
+		- FOSSBilling
+	excludePaths:
+		analyse:
+		- FOSSBilling
+	ignoreErrors:
+		- '#^Function __trans not found\.$#'

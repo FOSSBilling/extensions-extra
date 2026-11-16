@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+    "version": "0.2",
+    "language": "en",
+    "words": [
+        "FOSSBilling",
+        "Nano",
+        "XNO",
+        "phpstan",
+        "fsync",
+        "fsynced"
+    ],
+    "ignoreWords": [
+        "amountXno",
+        "priceXno",
+        "rawToXno",
+        "xnoToRaw",
+        "nanoHelper"
+    ],
+    "ignorePaths": [
+        "phpstan.neon"
+    ]
+}

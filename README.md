@@ -12,6 +12,7 @@ This repository contains extra extensions for [FOSSBilling](https://github.com/F
 | [Interkassa](gateways/Interkassa) | May not work | 31-Aug-2026 |
 | [Onebip](gateways/Onebip) | Untested | 31-Aug-2026 |
 | [Mollie](gateways/Mollie) | Functional | N/A |
+| [Nano](gateways/Nano) | New | N/A |
 | [TwoCheckout](gateways/TwoCheckout) | Reportedly functional | 31-Aug-2026 |
 | [WebMoney](gateways/WebMoney) | Untested | 31-Aug-2026 |
 
